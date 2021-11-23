@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @kharismamuzaki
-- 👀  I’m interested in Software Engineering and sometimes learning Machine Learning
+- 👀  I’m interested in Software Engineering and sometimes Machine Learning
 - 🌱  I’m currently learning to create more impact 
 - 📫  How to reach me, feel free ask at kharisma.muzaki@gmail.com
 
